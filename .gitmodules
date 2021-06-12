@@ -1,0 +1,9 @@
+[submodule "awesome-defi"]
+	path = awesome-defi
+	url = https://github.com/Lucas-Kohorst/awesome-defi
+[submodule "awesome-nft"]
+	path = awesome-nft
+	url = https://github.com/Lucas-Kohorst/awesome-nft
+[submodule "awesome-layer-2"]
+	path = awesome-layer-2
+	url = https://github.com/Lucas-Kohorst/awesome-layer-2
