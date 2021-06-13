@@ -7,3 +7,6 @@
 [submodule "awesome-layer-2"]
 	path = awesome-layer-2
 	url = https://github.com/Lucas-Kohorst/awesome-layer-2
+[submodule "ultimate-defi-research-base"]
+	path = ultimate-defi-research-base
+	url = https://github.com/OffcierCia/ultimate-defi-research-base.git
